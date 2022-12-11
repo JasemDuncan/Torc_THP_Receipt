@@ -24,13 +24,12 @@ When I purchase items I receive a receipt which lists the name of all the items 
 
 Write an application that prints out the receipt details for these shopping baskets:
 
-
-
-Input
+### Input
 
 ![screenshot](./src/img/input.png)
 
-
+### Output
+![screenshot](./src/img/output.png)
 
 ## Author
 
