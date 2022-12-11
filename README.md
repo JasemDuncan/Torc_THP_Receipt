@@ -1,5 +1,5 @@
 # Torc_THP_Receipt
-
+![screenshot](./src/img/torc.png)
 ## 📋 Description
 
 This is a take-home project, it is implemented in Ruby, it has test cases using RSPEC, and the data are already loaded.
